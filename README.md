@@ -1,9 +1,8 @@
-# Unit 6 — Box Model Practice
+`# Unit 6 — Box Model Practice
 
 ## Task 1 — Style Your Code to Match the Board
 
-Use the following CSS properties to complete the styling:
-
+ 
 - text-align
 - border
 - border-style

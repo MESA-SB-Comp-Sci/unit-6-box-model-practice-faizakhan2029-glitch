@@ -1,4 +1,21 @@
 * {
     box-sizing: border-box;
+h2{
+    width:200px;
+    height:200px;
+    background-color:pink;
+    padding: 50px;
 }
+h2 {
+    width : 200px;
+    height ; 200px;
+    background-color:pink
+    padding: 500px;
+    border : 5px solid red;
+    border-style: dotted;
+    margin: 50px;
+    padding: 50px; 
 
+
+    
+    
